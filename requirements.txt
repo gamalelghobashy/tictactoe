@@ -1,6 +1,5 @@
 Flask
 Flask-Session
 gunicorn
-Jinja
 requests
 distribute
